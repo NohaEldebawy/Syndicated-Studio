@@ -1,1 +1,0 @@
-# Syndicated-Studio
