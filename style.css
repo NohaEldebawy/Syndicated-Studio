@@ -58,7 +58,7 @@ h1{
   font-size: 16px;
   }
   
-.loginbox input[type="submit"] {
+.loginbox input[type="Login"] {
   border: none;
   outline: none;
   height: 40px;
@@ -68,7 +68,7 @@ h1{
   border-radius: 22px;
   }
   
-  .loginbox input[type="submit"]:hover {
+  .loginbox input[type="Login"]:hover {
     cursor: pointer;
     background: ffx107;
     color: #000;
